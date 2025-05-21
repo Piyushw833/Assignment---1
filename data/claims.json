@@ -1,0 +1,1 @@
+{"CL001": {"claim_id": "CL001", "policyholder_id": "PH001", "claim_amount": 1000.0, "reason": "Medical reason", "status": "Approved", "date_of_claim": "2025-05-21 15:37:45.973235"}, "CL002": {"claim_id": "CL002", "policyholder_id": "PH001", "claim_amount": 2000000.0, "reason": "medical emergency", "status": "Pending", "date_of_claim": "2025-05-21 15:41:00.584053"}}
